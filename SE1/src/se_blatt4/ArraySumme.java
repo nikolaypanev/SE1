@@ -1,3 +1,5 @@
+package se_blatt4;
+
 public class ArraySumme {
 
 	public static int getArraySumme(int[] werte) {

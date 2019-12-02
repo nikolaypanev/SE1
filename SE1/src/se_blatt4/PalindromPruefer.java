@@ -1,3 +1,4 @@
+package se_blatt4;
 
 public class PalindromPruefer {
 

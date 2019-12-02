@@ -1,3 +1,5 @@
+package se_blatt4;
+
 public class Rechteck {
 
 	private final int a;
